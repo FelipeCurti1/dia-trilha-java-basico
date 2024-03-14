@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.tiposVariaveis","c":"TiposVariaveis","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"edu.tiposVariaveis","c":"TiposVariaveis","l":"TiposVariaveis()","url":"%3Cinit%3E()"}]
